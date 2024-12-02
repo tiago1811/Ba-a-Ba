@@ -1,0 +1,81 @@
+name: reconhecer_letras
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^5.0.0
+  gif_view: ^0.4.4
+  circular_countdown_timer: ^0.2.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/letras_ma/a.png
+    - assets/letras_ma/b.png
+    - assets/letras_ma/c.png
+    - assets/letras_ma/d.png
+    - assets/letras_ma/e.png
+    - assets/letras_ma/f.png
+    - assets/letras_ma/g.png
+    - assets/letras_ma/h.png
+    - assets/letras_ma/i.png
+    - assets/letras_ma/j.png
+    - assets/letras_ma/k.png
+    - assets/letras_ma/l.png
+    - assets/letras_ma/m.png
+    - assets/letras_ma/n.png
+    - assets/letras_ma/o.png
+    - assets/letras_ma/p.png
+    - assets/letras_ma/q.png
+    - assets/letras_ma/r.png
+    - assets/letras_ma/s.png
+    - assets/letras_ma/t.png
+    - assets/letras_ma/u.png
+    - assets/letras_ma/v.png
+    - assets/letras_ma/x.png
+    - assets/letras_ma/w.png
+    - assets/letras_ma/y.png
+    - assets/letras_ma/z.png
+    - assets/letras_mi/a.png
+    - assets/letras_mi/b.png
+    - assets/letras_mi/c.png
+    - assets/letras_mi/d.png
+    - assets/letras_mi/e.png
+    - assets/letras_mi/f.png
+    - assets/letras_mi/g.png
+    - assets/letras_mi/h.png
+    - assets/letras_mi/i.png
+    - assets/letras_mi/j.png
+    - assets/letras_mi/k.png
+    - assets/letras_mi/l.png
+    - assets/letras_mi/m.png
+    - assets/letras_mi/n.png
+    - assets/letras_mi/o.png
+    - assets/letras_mi/p.png
+    - assets/letras_mi/q.png
+    - assets/letras_mi/r.png
+    - assets/letras_mi/s.png
+    - assets/letras_mi/t.png
+    - assets/letras_mi/u.png
+    - assets/letras_mi/v.png
+    - assets/letras_mi/x.png
+    - assets/letras_mi/w.png
+    - assets/letras_mi/y.png
+    - assets/letras_mi/z.png
+    - assets/letras_ma/errou1.png
+    - assets/letras_ma/acertou.png
+    - assets/letras_ma/errou2.png
+    - assets/letras_ma/acertou2.png
+    - assets/audio/music.mp3
+    - assets/audio/music2.mp3
