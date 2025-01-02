@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:reconhecer_letras/reconhecer_letra2.dart';
+//import 'package:reconhecer_letras/reconhecer_letra2.dart';
+import 'package:reconhecer_letras/reconhecer_formas.dart';
 void main() {
   runApp(const MyApp());
 }
@@ -15,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const ReconhecerLetras2(),
+      home: const ReconhecerFormas(),
     );
   }
 }

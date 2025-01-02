@@ -9,9 +9,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  google_fonts: ^5.0.0
+  google_fonts: ^6.2.1
   gif_view: ^0.4.4
   circular_countdown_timer: ^0.2.4
+  video_player: ^2.5.1
+  youtube_player_flutter: ^9.1.1
+  animated_text_kit: ^4.2.2
 
 dev_dependencies:
   flutter_test:
@@ -79,3 +82,25 @@ flutter:
     - assets/letras_ma/acertou2.png
     - assets/audio/music.mp3
     - assets/audio/music2.mp3
+    - assets/numeros/1.jpg
+    - assets/numeros/2.jpg
+    - assets/numeros/3.jpg
+    - assets/numeros/4.jpg
+    - assets/numeros/5.jpg
+    - assets/numeros/6.jpg
+    - assets/numeros/7.jpg
+    - assets/numeros/8.jpg
+    - assets/formas1/circulo.png
+    - assets/formas1/exagono.png
+    - assets/formas1/octagono.png
+    - assets/formas1/pentagono.png
+    - assets/formas1/quadrado.png
+    - assets/formas1/retangulo.png
+    - assets/formas1/triangulo.png
+    - assets/formas2/circulo.png
+    - assets/formas2/exagono.png
+    - assets/formas2/octagono.png
+    - assets/formas2/pentagono.png
+    - assets/formas2/quadrado.png
+    - assets/formas2/retangulo.png
+    - assets/formas2/triangulo.png

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:reconhecer_letras/reconhecer_letra2.dart';
-import 'package:reconhecer_letras/reconhecer_letras.dart';
+import 'package:reconhecer_letras/reconhecer_formas.dart';
 
 class PauseScreen extends StatelessWidget {
   const PauseScreen({super.key});
@@ -54,7 +54,7 @@ class PauseScreen extends StatelessWidget {
               onPressed: () {
                 Navigator.pushReplacement(
                   context,
-                  MaterialPageRoute(builder: (context) => const ReconhecerLetras()),
+                  MaterialPageRoute(builder: (context) => const ReconhecerFormas()),
                 );
               },
               child: Text(
